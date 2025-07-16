@@ -25,6 +25,11 @@ This project helped me understand layout replication, styling alignment, and res
 ---
 
 ## 📁 Folder Structure
+facebook-login-page/
+```bash
+├── index.html
+├── style.css
+```
 
 ---
 
